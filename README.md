@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Ige Tolulope!
 
+![HTML Badge](https://img.shields.io/badge/Code-HTML5-orange)
+![Python Badge](https://img.shields.io/badge/Code-Python-blue)
 ![SQL Badge](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Git Badge](https://img.shields.io/badge/Git-GitHub-black)
 
