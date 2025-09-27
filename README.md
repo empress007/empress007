@@ -31,6 +31,7 @@ Currently focusing on building strong SQL, data analysis, and business intellige
 | [🔗 Walmart Sales Analysis](https://github.com/empress007/Walmart-sales-sql-analysis) | SQL project analyzing Walmart transactional data to uncover sales and customer insights. | SQL, MySQL, GitHub |
 | [🔗 HR Management Data Analysis](https://github.com/empress007/HR-management-sql-analysis) | SQL project exploring employee demographics, retention, and workforce trends. | SQL, MySQL, GitHub |
 | [🔗 Hotel Reservation Data Analysis](https://github.com/empress007/Hotel-reservation-sql-analysis)|SQL analysis of hotel reservation data uncovering guest behavior, booking trends, cancellations, and revenue opportunities. | SQL, MySQL, GitHub |
+| [🔗 Bank Loan Analysis](https://github.com/empress007/bankloan-analysis-powerbi) | 📊 Power BI project analyzing bank loan applications, funded amounts, repayments, and borrower insights with interactive dashboards | Power BI, GitHub |
 
 ---
 
