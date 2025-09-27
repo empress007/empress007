@@ -4,6 +4,7 @@
 ![Python Badge](https://img.shields.io/badge/Code-Python-blue)
 ![SQL Badge](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Git Badge](https://img.shields.io/badge/Git-GitHub-black)
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=flat-square&logo=microsoft-power-bi&logoColor=white)
 
 
 💻 Aspiring Data Scientist | SQL Enthusiast | Business Intelligence Explorer  
